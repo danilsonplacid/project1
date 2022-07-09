@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react' ;
 
 const header = () => {
   return (
@@ -8,9 +8,8 @@ const header = () => {
             <img class="logo" src="images/logo.svg" alt="Logo" />
           </div>
           <div class="textRight">
-            <img src="images/react.svg" alt="React" class="reactLogo" /><strong
-              >React</strong
-            >
+            <img src="images/react.svg" alt="React" class="reactLogo" />
+            <strong>React</strong>
           </div>
         </div>
       </header>
